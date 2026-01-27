@@ -4,7 +4,7 @@ A responsive biography and portfolio website built with HTML and CSS.
 
 ## Overview
 This is a clean, modern portfolio website designed to showcase skills, projects, and contact information. It features a responsive design that works well on both desktop and mobile devices.
-
+ 
 ## Features
 - Responsive Design: Adapts to different screen sizes
 - Modern UI/UX: Clean layout with gradient headers and card-based sections
