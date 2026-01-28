@@ -75,7 +75,7 @@
 
 .skill-card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 0 15px #38bdf8, 0 0 30px #38bdf8, 0 0 50px #38bdf8;
+    box-shadow: 0 0 15px #38bdf8, 0 0 30px #38bdf8;
 }
 
 .skill-icon {
@@ -177,7 +177,7 @@
 .view-more-btn:hover {
     background: #444;
     transform: translateY(-3px);
-    box-shadow: 0 0 15px #38bdf8, 0 0 30px #38bdf8, 0 0 50px #38bdf8;
+    box-shadow: 0 0 15px #38bdf8, 0 0 30px #38bdf8;
 }
 
 
@@ -214,18 +214,19 @@
     transition: all 0.3s ease;
 }
 
+.project-item:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 0 15px #38bdf8, 0 0 30px #38bdf8, 0 0 45px #38bdf8;
+    border-left-color: #00f957; 
+}
+
 .social-button:hover {
     transform: translateY(-5px);
     opacity: 0.9;
-    box-shadow: 0 0 15px #38bdf8, 0 0 30px #38bdf8, 0 0 50px #38bdf8;
+    box-shadow: 0 0 15px #38bdf8, 0 0 30px #38bdf8;
 }
 
 .social-button i {
     font-size: 20px;
 }
 
-.project-item:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 0 15px #38bdf8, 0 0 30px #38bdf8, 0 0 45px #38bdf8;
-    border-left-color: #00f957; 
-}
