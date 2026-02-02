@@ -81,6 +81,9 @@ Personal-Portfolio/
 - GitHub: CirunayN
 - Social Links: Messenger, Discord, GitHub, LinkedIn, Instagram
 
+
+
+  
 ## License
 This project is for educational purposes. Feel free to modify and use for personal portfolios.
 
